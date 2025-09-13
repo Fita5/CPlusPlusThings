@@ -17,5 +17,5 @@ public:
   // Pure Virtual Function
   virtual void show() = 0;
 
-  /* Other members */
+  /* Other members 是安防监控*/
 };
